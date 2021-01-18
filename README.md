@@ -6,7 +6,7 @@ Aplicatia realizata se bazeaza pe detectarea benzilor de pe strada (lane detecti
 
 	Input-ul aplicatiei este un filmulet cu o strada, filmata de undeva de pe capota unei masini in miscare pe o strada cu dublu sens care dispune si de o banda de urgenta.
 
-	Pasii pentru realizarea aplicatiei:
+Pasii pentru realizarea aplicatiei:
 
 -Citiesc video-ul si il pornim; Frame-ul este de fapt un numpy array unde elementele sunt de tip unsigned char;
 
